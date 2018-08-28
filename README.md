@@ -1,2 +1,2 @@
 # Udacity-Deep-Learning
-Assignments for the Deep Learning course - ud370 by Udacity (Google)
+The Assignments solved for the Deep Learning course - ud370 by Udacity (Google) can be found here.
